@@ -5,3 +5,4 @@ git tracks changes of files
 creating a new branch is quick and simple
 merge without fast forward
 test stack
+try vi operation
